@@ -1,1 +1,0 @@
-Hello! I'm Palak from Comp-17.
