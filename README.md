@@ -9,7 +9,7 @@ This repository contains guide to demonstrate the practical demo of Git and GitH
     ```
     git clone <url>
     ```
-
+nop
 3. ⌨ After cloning the repo, a folder will be created at location where you cloned the repo. There will be a **README.md** file in this folder. Open the file and make some changes according to your wish.
 4. 💾 After you have made your changes, save the file.
 5. 💬 Now add the changes and then commit the changes with an appropriate message.
